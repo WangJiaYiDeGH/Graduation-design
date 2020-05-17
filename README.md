@@ -20,6 +20,14 @@ java -jar target/community-0.0.1-SNAPSHOT.jar
 ```
 http://localhost:8887
 ```
+7. 修改项目并提交到GitHup托管
+```
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/WangJiaYiDeGH/Graduation-design.git
+git push -u origin master
+```
 
 
 ## 资料
